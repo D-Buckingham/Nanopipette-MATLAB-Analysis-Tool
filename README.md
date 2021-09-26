@@ -1,7 +1,7 @@
 # Plotting Data of Nanopipette Measurements
 
-In this project you find some useful tools to display CV (current versus voltage) and AVST (current versus time) plots.  
-With these MATLAB codes you can select multiple conditions which you measured and display them in one plot, analyze the variation of your measurement of one condition and display the changes of the current over time.  
+In this project you find some useful tools to display CV (current versus voltage) and real time measurements (current versus time) plots.  
+With these MATLAB codes you can select multiple conditions, which you measured, and display them in one plot, analyze the variation of your measurement of one condition and display the changes of the current over time.  
 
 ## Getting Started
 
